@@ -1,6 +1,6 @@
 <?php
 
-$apiKey = 'AIzaSyBswYuS-_v0EpG0WH1UMFRtgp4LYoUvP50';
+$apiKey = 'your api key';
 
 if (!isset($_GET['id'])) {
     echo "returning";
